@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\repository\DoctorRepository.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\model\Appointment.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\model\Patient.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\service\DoctorService.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\exception\PatientException.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\model\UserRole.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\service\PatientService.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\exception\AppointmentException.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\controller\DoctorController.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\dto\RegisterDto.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\controller\PatientController.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\model\Doctor.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\repository\PatientRepository.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\controller\AuthController.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\exception\DoctorException.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\repository\AppointmentRepository.java
+C:\Users\user\Desktop\SecilStore\task\src\main\java\com\secilstore\task\TaskApplication.java

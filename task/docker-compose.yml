@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  secilstore:
+    container_name: secilstore
+    image: ecduman/secilstore
+    ports:
+      - "8080:8080"
+    depends_on:
+      - secilstoretask
+  secilstoretask:
+    container_name: secilstoretask
+    image: ecduman/postgres:13
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=secilstoretask
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - /C/postdata:/postdata
+  

@@ -1,0 +1,17 @@
+com\secilstore\task\controller\AuthController.class
+com\secilstore\task\model\UserRole.class
+com\secilstore\task\exception\AppointmentException.class
+com\secilstore\task\model\Appointment.class
+com\secilstore\task\service\PatientService.class
+com\secilstore\task\exception\DoctorException.class
+com\secilstore\task\TaskApplication.class
+com\secilstore\task\model\Patient.class
+com\secilstore\task\model\Doctor.class
+com\secilstore\task\service\DoctorService.class
+com\secilstore\task\controller\PatientController.class
+com\secilstore\task\exception\PatientException.class
+com\secilstore\task\dto\RegisterDto.class
+com\secilstore\task\repository\AppointmentRepository.class
+com\secilstore\task\controller\DoctorController.class
+com\secilstore\task\repository\DoctorRepository.class
+com\secilstore\task\repository\PatientRepository.class
