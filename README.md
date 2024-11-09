@@ -1,6 +1,6 @@
 java 11 - maven - Spring boot 2.7.8 - postgres16
 
-download the zip (secilstore)
+download the zip (secilstore-main)
 
 extract
 
@@ -8,7 +8,7 @@ open eclipse
 
   -open project from file system
   
-  -choose task folder which is located under secilstore
+  -choose task folder which is located under secilstore-main
   
   -right click on the project -> run as -> maven build... -> Goals "clean install" and check skip test -> run
 
