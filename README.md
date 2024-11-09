@@ -19,9 +19,11 @@ right click on the project -> show in -> terminal
   run the commands below
 
   -docker pull postgres:16
+  
   -docker run -d -p 5432:5432 -e POSTGRES_PASSWORD=yourpassword -e POSTGRES_USER=postgres -e POSTGRES_DB=secilstoretask --name=secilstoretask postgres:16
   
   -docker build -t task .   #### don't miss the dot ###
+  
   -docker run -d -p 8080:8080 task
 
   
