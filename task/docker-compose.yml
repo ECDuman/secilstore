@@ -10,7 +10,7 @@ services:
       - secilstoretask
   secilstoretask:
     container_name: secilstoretask
-    image: ecduman/postgres:13
+    image: ecduman/postgres:16
     ports:
       - "5432:5432"
     environment:
